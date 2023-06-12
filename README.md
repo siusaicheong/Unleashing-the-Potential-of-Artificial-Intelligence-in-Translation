@@ -16,7 +16,7 @@ This study highlights the potential of harnessing AI advancements to enhance tra
 ††The work is part of an on-going project supported by a grant from the Research Matching Grant Scheme.
 
 ## Files
-Click [here]([https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4448091](https://github.com/siusaicheong/Unleashing-the-Potential-of-Artificial-Intelligence-in-Translation/blob/main/Unleashing%20the%20Potential%20of%20Artificial%20Intelligence%20in%20Translation.pdf)) to view/download the abstract.
+Click [here](https://github.com/siusaicheong/Unleashing-the-Potential-of-Artificial-Intelligence-in-Translation/blob/main/Unleashing%20the%20Potential%20of%20Artificial%20Intelligence%20in%20Translation.pdf) to view/download the abstract.
 
 ## Keywords
 translation technology, deep learning, artificial intelligence, neural machine translation, large language models
