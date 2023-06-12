@@ -12,7 +12,9 @@ Subsequently, we shift our focus to AI for specialised translation, showcasing t
 This study highlights the potential of harnessing AI advancements to enhance translation technology, from general applications to customised solutions. By embracing these innovations, translators and developers can collaborate to devise novel solutions addressing industry challenges, improving the overall quality and efficiency of translation services across domains.
 
 *The work was supported by a grant from the Innovation and Technology Commission (Project No. ITF/238/17).
+
 †The work was supported by a grant from the Research Grants Council of the Hong Kong Special Administrative Region, China (Project No. UGC/FDS14/H16/18).
+
 ††The work is part of an on-going project supported by a grant from the Research Matching Grant Scheme.
 
 ## Files
